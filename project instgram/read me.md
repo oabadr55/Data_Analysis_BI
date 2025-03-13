@@ -17,3 +17,8 @@ This dataset contains Instagram post insights, focusing on engagement metrics an
 
 I have performed various **data visualizations and analysis** to extract meaningful insights, uncover trends, and represent the data effectively. 🚀📈  
 
+![Screenshot 2025-02-26 165341](https://github.com/user-attachments/assets/2fd47871-d809-4fb1-a8c5-7770da60c71b)
+![Screenshot 2025-02-26 165331](https://github.com/user-attachments/assets/b848dd3d-e8f2-49cb-b197-b2e1aacadaa9)
+![Screenshot 2025-02-26 165407](https://github.com/user-attachments/assets/ab35aac0-cbb8-46c2-93da-59d4490bdb8e)
+![Screenshot 2025-02-26 165359](https://github.com/user-attachments/assets/14294f40-81d0-41ec-920a-15a11ce91e0b)
+![Screenshot 2025-02-26 165352](https://github.com/user-attachments/assets/1b679997-0e46-49cf-82f9-d4124d40cb20)
